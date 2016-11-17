@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BeerApplication.Beer">
+    <Position X="1.75" Y="0.75" Width="2.25" />
+    <AssociationLine Name="typeBeer" Type="BeerApplication.TypeBeer">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.454" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>CAABAAAAAgAAABAIIAAAAAAAAAAEAAgAAAAAAAAgAgA=</HashCode>
+      <FileName>Beer.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="typeBeer" />
+    </ShowAsAssociation>
+  </Class>
+  <Enum Name="BeerApplication.TypeBeer">
+    <Position X="5.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAABAAAIAAAAAQIAAAAACAAAACBIAAAAAkAAA=</HashCode>
+      <FileName>TypeBeer.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
