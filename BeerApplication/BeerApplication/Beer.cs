@@ -51,8 +51,7 @@ namespace BeerApplication
         */ 
         public Beer seeDescriptionBeer(int id)
         {
-            throw new NotImplementedException();
-            //test commit 
+            throw new NotImplementedException(); 
         }
     }
 }
